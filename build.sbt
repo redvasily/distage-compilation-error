@@ -9,7 +9,7 @@ lazy val root = (project in file("."))
   .settings(
     name := "distage-compilation-error",
     libraryDependencies ++= Seq(
-      "io.7mind.izumi" %% "distage-core" % "0.9.13",
+      "io.7mind.izumi" %% "distage-core" % "0.9.15",
       scalaTest % Test
     )
   )
