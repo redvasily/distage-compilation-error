@@ -1,0 +1,74 @@
+[info] com.example:distage-compilation-error_2.12:0.1.0-SNAPSHOT [S]
+[info]   +-io.7mind.izumi:distage-core_2.12:0.9.12 [S]
+[info]     +-cglib:cglib-nodep:3.3.0
+[info]     +-io.7mind.izumi:distage-model_2.12:0.9.12 [S]
+[info]     | +-io.7mind.izumi:fundamentals-bio_2.12:0.9.12 [S]
+[info]     | | +-org.scala-lang.modules:scala-collection-compat_2.12:2.1.2 [S]
+[info]     | | 
+[info]     | +-io.7mind.izumi:fundamentals-collections_2.12:0.9.12 [S]
+[info]     | | +-org.scala-lang.modules:scala-collection-compat_2.12:2.1.2 [S]
+[info]     | | 
+[info]     | +-io.7mind.izumi:fundamentals-functional_2.12:0.9.12 [S]
+[info]     | | +-org.scala-lang.modules:scala-collection-compat_2.12:2.1.2 [S]
+[info]     | | 
+[info]     | +-io.7mind.izumi:fundamentals-platform_2.12:0.9.12 [S]
+[info]     | | +-io.7mind.izumi:fundamentals-collections_2.12:0.9.12 [S]
+[info]     | | | +-org.scala-lang.modules:scala-collection-compat_2.12:2.1.2 [S]
+[info]     | | | 
+[info]     | | +-org.scala-lang.modules:scala-collection-compat_2.12:2.1.2 [S]
+[info]     | | 
+[info]     | +-io.7mind.izumi:fundamentals-reflection_2.12:0.9.12 [S]
+[info]     | | +-io.7mind.izumi:fundamentals-functional_2.12:0.9.12 [S]
+[info]     | | | +-org.scala-lang.modules:scala-collection-compat_2.12:2.1.2 [S]
+[info]     | | | 
+[info]     | | +-io.7mind.izumi:fundamentals-platform_2.12:0.9.12 [S]
+[info]     | | | +-io.7mind.izumi:fundamentals-collections_2.12:0.9.12 [S]
+[info]     | | | | +-org.scala-lang.modules:scala-collection-compat_2.12:2.1.2 [S]
+[info]     | | | | 
+[info]     | | | +-org.scala-lang.modules:scala-collection-compat_2.12:2.1.2 [S]
+[info]     | | | 
+[info]     | | +-io.suzaku:boopickle_2.12:1.3.1 [S]
+[info]     | | +-org.scala-lang.modules:scala-collection-compat_2.12:2.1.2 [S]
+[info]     | | 
+[info]     | +-org.scala-lang.modules:scala-collection-compat_2.12:2.1.2 [S]
+[info]     | +-org.scala-lang:scala-reflect:2.12.10 [S]
+[info]     | 
+[info]     +-io.7mind.izumi:distage-proxy-cglib_2.12:0.9.12 [S]
+[info]     | +-cglib:cglib-nodep:3.3.0
+[info]     | +-io.7mind.izumi:distage-model_2.12:0.9.12 [S]
+[info]     | | +-io.7mind.izumi:fundamentals-bio_2.12:0.9.12 [S]
+[info]     | | | +-org.scala-lang.modules:scala-collection-compat_2.12:2.1.2 [S]
+[info]     | | | 
+[info]     | | +-io.7mind.izumi:fundamentals-collections_2.12:0.9.12 [S]
+[info]     | | | +-org.scala-lang.modules:scala-collection-compat_2.12:2.1.2 [S]
+[info]     | | | 
+[info]     | | +-io.7mind.izumi:fundamentals-functional_2.12:0.9.12 [S]
+[info]     | | | +-org.scala-lang.modules:scala-collection-compat_2.12:2.1.2 [S]
+[info]     | | | 
+[info]     | | +-io.7mind.izumi:fundamentals-platform_2.12:0.9.12 [S]
+[info]     | | | +-io.7mind.izumi:fundamentals-collections_2.12:0.9.12 [S]
+[info]     | | | | +-org.scala-lang.modules:scala-collection-compat_2.12:2.1.2 [S]
+[info]     | | | | 
+[info]     | | | +-org.scala-lang.modules:scala-collection-compat_2.12:2.1.2 [S]
+[info]     | | | 
+[info]     | | +-io.7mind.izumi:fundamentals-reflection_2.12:0.9.12 [S]
+[info]     | | | +-io.7mind.izumi:fundamentals-functional_2.12:0.9.12 [S]
+[info]     | | | | +-org.scala-lang.modules:scala-collection-compat_2.12:2.1.2 [S]
+[info]     | | | | 
+[info]     | | | +-io.7mind.izumi:fundamentals-platform_2.12:0.9.12 [S]
+[info]     | | | | +-io.7mind.izumi:fundamentals-collections_2.12:0.9.12 [S]
+[info]     | | | | | +-org.scala-lang.modules:scala-collection-compat_2.12:2.1.2 [S]
+[info]     | | | | | 
+[info]     | | | | +-org.scala-lang.modules:scala-collection-compat_2.12:2.1.2 [S]
+[info]     | | | | 
+[info]     | | | +-io.suzaku:boopickle_2.12:1.3.1 [S]
+[info]     | | | +-org.scala-lang.modules:scala-collection-compat_2.12:2.1.2 [S]
+[info]     | | | 
+[info]     | | +-org.scala-lang.modules:scala-collection-compat_2.12:2.1.2 [S]
+[info]     | | +-org.scala-lang:scala-reflect:2.12.10 [S]
+[info]     | | 
+[info]     | +-org.scala-lang.modules:scala-collection-compat_2.12:2.1.2 [S]
+[info]     | 
+[info]     +-org.scala-lang.modules:scala-collection-compat_2.12:2.1.2 [S]
+[info]     
+
